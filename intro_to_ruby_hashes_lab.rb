@@ -68,7 +68,8 @@ base_hash={
        },
        :shortline_railroad =>{
          :mortgage_value => 800
-       }}
+       }
+     }
    }
  }
 end
